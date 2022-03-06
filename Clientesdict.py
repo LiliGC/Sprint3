@@ -64,6 +64,6 @@ while True:
 # 3. Remover clientes
             elif opcion2 == 3:
                 removercliente()
-#4. Mostrar a un cliente en particular.
+#4. Salir de la base de datos de Clientes.
             elif opcion2 == 4:
                 break
